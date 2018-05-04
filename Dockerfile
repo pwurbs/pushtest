@@ -2,5 +2,5 @@
 # To change this template file, choose Tools | Templates
 # and open the template in the editor.
 FROM alpine:latest
-echo bla
+echo bla2   
 CMD ["/bin/sh"]
